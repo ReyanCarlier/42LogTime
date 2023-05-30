@@ -1,5 +1,5 @@
 # 42LogTime
-L'unique manière officielle de récupérer son logtime à la Badgeuse, à 42 Paris
+L'unique manière officielle de récupérer son logtime à la Badgeuse, à 42 Paris.
 
 ## Qu'est-ce que le logtime à la Badgeuse ?
 Il s'agit du temps que vous avez passé dans l'établissement pendant une période donnée, comptabilisé lors de votre entrée dans l'établissement jusqu'à votre sortie, en badgant à chaque fois.
