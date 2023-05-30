@@ -14,9 +14,13 @@ Je vous demande de veiller à ce que les informations qui me seront transmises p
 Pour faciliter le traitement de ma demande, voici mes informations personnelles :
 
 Nom : *Ton nom*
+
 Prénom : *Ton prénom*
+
 Login : *Ton login*
+
 Adresse e-mail : *lemailavec@lequeltuen.vois*
+
 Adresse e-mail 42 : *login@student.42.fr*
 
 Je vous rappelle que, conformément à l'article 12 du RGPD, vous devez me répondre dans un délai d'un mois à compter de la réception de ma demande.
