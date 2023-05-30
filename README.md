@@ -35,7 +35,8 @@ Vous trouverez dans le repo un exemple de mail personnalisable, contenant toutes
 Légalement, le DPO dispose d'un délai de 30 jours pour accéder à votre requête.
 
 ![Article 12.3 - RGPD](https://user-images.githubusercontent.com/48443830/242105872-c88ffb2b-41cd-4a0f-a6c9-6699b1e6cebf.png)
-En cas de non-réponse dans un délai de 30 jours ou en cas de refus que vous jugeriez abusif, vous pouvez formuler une demande directement à la [CNIL](https://www.cnil.fr/fr/plaintes/travail).
+
+En cas de non-réponse dans un délai de 30 jours ou en cas de refus, vous pouvez formuler une demande directement à la CNIL en suivant [ce lien](https://www.cnil.fr/fr/plaintes/travail).
 
 ![Accès aux Locaux et le contrôle des horaires](https://user-images.githubusercontent.com/48443830/242106882-120d6768-1bb5-4773-99bb-7bd778abbb86.png)
 
