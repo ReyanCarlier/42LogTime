@@ -6,7 +6,7 @@ France
 
 Madame, Monsieur,
 
-Je vous adresse ce courriel en ma qualité de stagiaire de la Formation Professionnelle au sein de l'Association 42, conformément aux droits qui me sont conférés par le Règlement Général sur la Protection des Données (RGPD), notamment l'article 15 relatif au droit d'accès. Je souhaiterais obtenir des informations concernant les données personnelles me concernant qui sont collectées, traitées et stockées par votre organisation.
+Je vous adresse ce courriel en ma qualité de [*stagiaire de la Formation Professionnelle / boursier GEN*] au sein de l'Association 42, conformément aux droits qui me sont conférés par le Règlement Général sur la Protection des Données (RGPD), notamment l'article 15 relatif au droit d'accès. Je souhaiterais obtenir des informations concernant les données personnelles me concernant qui sont collectées, traitées et stockées par votre organisation.
 
 Le motif de ma demande est de pouvoir faire le rapprochement entre les heures comptabilisées par la badgeuse située à l'entrée de l'établissement et celles que je comptabilise de mon côté.
 Je vous demande de veiller à ce que les informations qui me seront transmises par voie électronique soient claires, facilement lisibles et compréhensibles, conformément à l'article 12.1 du RGPD.
