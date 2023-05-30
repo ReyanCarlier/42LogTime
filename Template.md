@@ -13,11 +13,11 @@ Je vous demande de veiller à ce que les informations qui me seront transmises p
 
 Pour faciliter le traitement de ma demande, voici mes informations personnelles :
 
-Nom : [Ton nom]
-Prénom : [Ton prénom]
-Login : [Ton login]
-Adresse e-mail : [Ton adresse e-mail]
-Adresse e-mail 42 : [login@student.42.fr]
+Nom : *Ton nom*
+Prénom : *Ton prénom*
+Login : *Ton login*
+Adresse e-mail : *lemailavec@lequeltuen.vois*
+Adresse e-mail 42 : *login@student.42.fr*
 
 Je vous rappelle que, conformément à l'article 12 du RGPD, vous devez me répondre dans un délai d'un mois à compter de la réception de ma demande.
 Si vous rencontrez des difficultés pour traiter ma demande ou si vous avez besoin de plus d'informations, je vous invite à me le faire savoir rapidement. Dans le cas où je ne recevrais pas de réponse de votre part, je me verrais dans l'obligation d'informer l'autorité de contrôle compétente (CNIL) de cette situation, conformément à l'article 77 du RGPD.
@@ -26,4 +26,4 @@ Si vous avez besoin de plus d'informations pour traiter ma demande ou si vous es
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-[Nom et prénom]
+*Nom et prénom*
