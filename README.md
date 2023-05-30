@@ -1,6 +1,8 @@
 # 42LogTime
 L'unique manière officielle de récupérer son logtime à la Badgeuse, à 42 Paris.
 
+*Note pour plus tard : fournir un script qui permette de traîter les données reçues pour avoir directement le temps passé dans l'établissement sans avoir à tout éplucher.*
+
 ## Qu'est-ce que le logtime à la Badgeuse ?
 Il s'agit du temps que vous avez passé dans l'établissement pendant une période donnée, comptabilisé lors de votre entrée dans l'établissement jusqu'à votre sortie, en badgant à chaque fois.
 Cette donnée est capitale pour les étudiants rémunérés par Pôle Emploi ainsi que les boursiers GEN, dans le cadre de leur contrat.
