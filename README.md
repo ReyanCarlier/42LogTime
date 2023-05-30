@@ -29,6 +29,9 @@ Il est alors possible de demander au DPO l'ensemble des données personnelles tr
 Pour exercer vos droits, vous devez effectuer une demande par courrier postal OU par e-mail directement au DPO (Délégué à la Protection des Données).
 Nous favoriserons, pour des moyens logistiques, d'effectuer notre demande par e-mail à [dpo@42.fr](mailto:dpo@42.fr).
 Vous trouverez dans le repo un exemple de mail personnalisable, contenant toutes les informations nécessaires au bon déroulement du processus.
+
+## Que dois-je envoyer ?
+Pour vous faciliter les choses, vous trouverez [ici](https://github.com/ReyanCarlier/42LogTime/blob/main/Template.md) un template utilisable très facilement, il suffit de remplacer les données en italique par vos propres données.
 /!\ Pensez à fournir une photocopie numérisée de votre pièce d'identité en copie d'e-mail. /!\
 
 ## Combien de temps est-ce que cela prend ?
