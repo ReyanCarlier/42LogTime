@@ -11,7 +11,7 @@ Je vous adresse ce courriel en ma qualité de stagiaire de la Formation Professi
 Le motif de ma demande est de pouvoir faire le rapprochement entre les heures comptabilisées par la badgeuse située à l'entrée de l'établissement et celles que je comptabilise de mon côté.
 Je vous demande de veiller à ce que les informations qui me seront transmises par voie électronique soient claires, facilement lisibles et compréhensibles, conformément à l'article 12.1 du RGPD.
 
-Pour faciliter le traitement de ma demande, voici mes informations personnelles :
+Pour faciliter le traitement de ma demande, vous trouverez ci-joint une photocopie de ma pièce d'identité et ci-contre mes informations personnelles :
 
 Nom : *Ton nom*
 
