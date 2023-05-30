@@ -40,11 +40,10 @@ Légalement, le DPO dispose d'un délai de 30 jours pour accéder à votre requ�
 ![Article 12.3 - RGPD](https://user-images.githubusercontent.com/48443830/242105872-c88ffb2b-41cd-4a0f-a6c9-6699b1e6cebf.png)
 
 En cas de non-réponse dans un délai de 30 jours ou en cas de refus, vous pouvez formuler une demande directement à la CNIL en suivant [ce lien](https://www.cnil.fr/fr/plaintes/travail).
+Pas de réponse : vous n'aurez qu'à envoyer la demande que vous avez formulé.
+Réponse négative : vous devrez envoyer à la fois la demande ET la réponse qui vous a été donnée.
 
 ![Accès aux Locaux et le contrôle des horaires](https://user-images.githubusercontent.com/48443830/242106882-120d6768-1bb5-4773-99bb-7bd778abbb86.png)
 
 ![Sélection du problème](https://user-images.githubusercontent.com/48443830/242107178-c3f1e893-32bc-4729-8137-a3ff58d9ec71.png)
-
-Dans le cas où vous n'auriez pas eu de réponse sous 30 jours, vous n'aurez qu'à envoyer la demande que vous avez formulé.
-Dans le cas où vous auriez eu une réponse négative, vous devrez envoyer à la fois la demande ET la réponse qui vous a été donnée.
 
