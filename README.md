@@ -22,6 +22,6 @@ Nous favoriserons, pour des moyens logistiques, d'effectuer notre demande par e-
 ## Mais pourquoi RGPD ?
 Conformément aux données disponibles directement sur le [site officiel de 42](https://42.fr/politique-de-confidentialite/) :
 
-[!Badge](https://user-images.githubusercontent.com/48443830/242097801-7662bc37-258f-420d-b5dd-e7be548a0040.png)
+![Badge](https://user-images.githubusercontent.com/48443830/242097801-7662bc37-258f-420d-b5dd-e7be548a0040.png)
 
-[!Droits](https://user-images.githubusercontent.com/48443830/242098039-5215ea98-35da-4695-9659-834f85b0f163.png)
+![Droits](https://user-images.githubusercontent.com/48443830/242098039-5215ea98-35da-4695-9659-834f85b0f163.png)
